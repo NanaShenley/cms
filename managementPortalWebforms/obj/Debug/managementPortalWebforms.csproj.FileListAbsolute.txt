@@ -127,6 +127,5 @@ C:\devOps\managementPortalWebforms\bin\Microsoft.Owin.Security.Google.xml
 C:\devOps\managementPortalWebforms\bin\Microsoft.Owin.Security.Twitter.xml
 C:\devOps\managementPortalWebforms\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\devOps\managementPortalWebforms\bin\Microsoft.Owin.Security.OAuth.xml
-C:\devOps\managementPortalWebforms\obj\Debug\managementPortalWebforms.csprojResolveAssemblyReference.cache
 C:\devOps\managementPortalWebforms\obj\Debug\managementPortalWebforms.dll
 C:\devOps\managementPortalWebforms\obj\Debug\managementPortalWebforms.pdb
