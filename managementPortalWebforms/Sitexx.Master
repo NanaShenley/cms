@@ -57,7 +57,7 @@
         </asp:ScriptManager>
 
         <div class="navbar navbar-inverse navbar-fixed-top">
-            <div class="container" style="border:dotted 1px red;">
+            <div class="container" style="border:dotted 1px blue;">
                 <div class="navbar-header">
                     <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
                         <span class="icon-bar"></span>
@@ -93,11 +93,11 @@
         </div>
         <br/><br/>
         <div class="container body-content">
-            <div style="border:solid 1px grey;">
+            <div style="border:solid 1px black;">
                 <asp:ContentPlaceHolder ID="MainContent" runat="server" >
                 </asp:ContentPlaceHolder>
             </div><br/><br/>
-            <hr style="border:solid 1px red;" />
+            <hr style="border:solid 1px green;" />
             <footer>
                 <p>&copy; <%: DateTime.Now.Year %> - My ASP.NET Application</p>
             </footer>

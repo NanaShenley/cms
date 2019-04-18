@@ -10,7 +10,7 @@
 namespace managementPortalWebforms {
     
     
-    public partial class SitexxMaster {
+    public partial class SiteMaster {
         
         /// <summary>
         /// MainContent control.
