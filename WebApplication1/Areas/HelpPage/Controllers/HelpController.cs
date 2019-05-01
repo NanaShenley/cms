@@ -57,7 +57,7 @@ namespace WebApplication1.Areas.HelpPage.Controllers
                 }
             }
 
-            return View(ErrorViewName);
+            return View(ErrorViewName);  
         }
     }
 }
